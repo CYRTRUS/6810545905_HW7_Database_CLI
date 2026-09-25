@@ -1,0 +1,20 @@
+# personal use
+document/
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
