@@ -62,7 +62,7 @@ def delete_row(db_config):
 
 
 def reset_menu(db_config):
-    print("1. Reset a table\n2. Reset the entire database")
+    print("1. Clear a table\n2. Reset the entire database")
     choice = input("Choose an option: ").strip()
 
     if choice == "1":
